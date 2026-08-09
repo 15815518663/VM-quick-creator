@@ -1,0 +1,3 @@
+D:/vm_temp_build/build/CMakeFiles/vm_quick_creator.dir
+D:/vm_temp_build/build/CMakeFiles/edit_cache.dir
+D:/vm_temp_build/build/CMakeFiles/rebuild_cache.dir

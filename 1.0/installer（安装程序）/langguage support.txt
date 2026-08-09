@@ -1,0 +1,8 @@
+🌐 语言支持 / Language Support
+中文：安装包内置多语言安装/卸载脚本，支持全语言系统，可适配全球不同地区用户使用。  
+English：The installer includes multi-language install/uninstall scripts, supports all language versions of Windows, and works for users worldwide.  
+Deutsch：Das Installationspaket enthält mehrsprachige Installations- und Deinstallationsscripts, unterstützt alle Windows-Sprachen und funktioniert für Benutzer weltweit.  
+日本語：インストーラーは多言語対応のインストール・アンインストールスクリプトを内蔵し、すべての言語バージョンのWindowsに対応しています。  
+Français：L'installateur comprend des scripts d'installation et de désinstallation multilingues, prend en charge toutes les versions linguistiques de Windows et convient aux utilisateurs du monde entier.  
+Español：El instalador incluye scripts de instalación y desinstalación en varios idiomas, es compatible con todas las versiones de idioma de Windows y funciona para usuarios de todo el mundo.  
+Русский：Установщик содержит многоязычные скрипты установки и удаления, поддерживает все языковые версии Windows и подходит для пользователей по всему миру.
